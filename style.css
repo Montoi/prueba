@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+.container h1{
+    color: #222;
+    text-align: center;
+    line-height: 100vh;
+    font-size: 100px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+}
+
+h1:hover{
+    color: white;
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #fff,
+                 0 0 40px #ff0000,
+                 0 0 80px #fff,
+                 0 0 120px #fff;
+               
+            
+                
+   
+
+}
